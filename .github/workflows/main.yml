@@ -32,4 +32,4 @@ jobs:
           context: .
           file: ./Dockerfile
           push: true
-          tags: atomar1202/newfile:latest
+          tags: atomar1202/dockerimage:latest
